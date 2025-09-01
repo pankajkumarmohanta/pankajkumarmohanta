@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajkumarmohanta&label=Profile%20views&color=0e75b6&style=flat" alt="pankajkumarmohanta" /> </p>
 
-- 🌱 I’m currently learning **python Development and Full-stack-Mern**
+- 🌱 I’m currently learning **Python Development and Full-stack-Mern**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankajkumarmohanta](https://github.com/pankajkumarmohanta)
 
